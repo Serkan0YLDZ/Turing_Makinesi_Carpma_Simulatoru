@@ -1,0 +1,37 @@
+# OS ve editör dosyaları
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python derleme çıktıları
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Sanal ortamlar
+env/
+venv/
+.venv/
+myenv/
+
+# Paketleme ve derleme
+build/
+dist/
+*.egg-info/
+*.spec
+
+# Test ve raporlar
+.pytest_cache/
+.coverage*
+coverage.xml
+htmlcov/
+
+# Günlük ve geçici dosyalar
+*.log
+*.tmp
+*.bak
+*.orig
